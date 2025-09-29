@@ -26,7 +26,7 @@ The simulation generates an animation that visualizes the evolution of the conce
 
 
 ---
-![Dealloying Simulation GIF](phasefield_concentration_evolution_smooth.gif)
+![Dealloying Simulation GIF](phasefield_concentration_evolution.gif)
 ---
 
 ### Explanation of the Results
