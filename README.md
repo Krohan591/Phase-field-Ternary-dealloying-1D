@@ -1,4 +1,4 @@
-# 1D Phase-Field Simulation of Dealloying in a Ternary System
+#  Phase-Field Simulation of Dealloying in a Ternary System
 
 This repository contains a Jupyter Notebook implementation of a 1D phase-field model to simulate the dealloying process in a ternary (A-B-C) system. The model is based on the Cahn-Hilliard and Allen-Cahn equations to simulate the evolution of concentration and phase fields.
 
